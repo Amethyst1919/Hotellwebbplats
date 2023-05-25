@@ -1,0 +1,17 @@
+body{
+  background-color:lightcoral ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif
+}
+
+a  {
+text-decoration: none;
+}
+
+a:link, a:visited {
+  color: purple ;
+}
+
+a:hover {
+color: darkorchid ;
+    text-decoration: underline ;
+}
